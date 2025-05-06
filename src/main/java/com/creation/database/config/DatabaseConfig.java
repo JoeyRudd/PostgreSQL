@@ -1,4 +1,4 @@
-package com.creation.PostgreSQL.config;
+package com.creation.database.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
